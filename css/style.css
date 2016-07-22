@@ -1,0 +1,23 @@
+.topIcon {
+	margin-left: 10px;
+	margin-right: 10px;
+	color:white;
+}
+
+.topIcon:hover {
+	color:#ee4b28;
+}
+
+.white:link {
+	color:white;
+}
+
+.btmbtn {
+	position: absolute;
+	bottom: 30px;
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;
+	width:150px;
+}
